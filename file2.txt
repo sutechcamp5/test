@@ -1,1 +1,1 @@
-file2 changed
+file2 new
